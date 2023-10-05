@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-tinder-habilidades",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "EdwardRG",
+  "license": " MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.2"
+  }
+}
